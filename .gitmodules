@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/animovement/animovement.r-universe.dev
 	branch = HEAD
+[submodule "Rhdf5lib"]
+	path = Rhdf5lib
+	url = https://github.com/Huber-group-EMBL/Rhdf5lib
+[submodule "aniframe"]
+	path = aniframe
+	url = https://github.com/roaldarbol/aniframe
+[submodule "animovement"]
+	path = animovement
+	url = https://github.com/roaldarbol/animovement
+[submodule "aniprocess"]
+	path = aniprocess
+	url = https://github.com/roaldarbol/aniprocess
+[submodule "aniread"]
+	path = aniread
+	url = https://github.com/roaldarbol/aniread
+[submodule "rhdf5"]
+	path = rhdf5
+	url = https://github.com/Huber-group-EMBL/rhdf5
+[submodule "rhdf5filters"]
+	path = rhdf5filters
+	url = https://github.com/Huber-group-EMBL/rhdf5filters
