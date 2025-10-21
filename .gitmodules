@@ -5,9 +5,15 @@
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/Huber-group-EMBL/Rhdf5lib
+[submodule "anicheck"]
+	path = anicheck
+	url = https://github.com/animovement/anicheck
 [submodule "aniframe"]
 	path = aniframe
 	url = https://github.com/animovement/aniframe
+[submodule "animetric"]
+	path = animetric
+	url = https://github.com/animovement/animetric
 [submodule "animovement"]
 	path = animovement
 	url = https://github.com/animovement/animovement
@@ -17,6 +23,9 @@
 [submodule "aniread"]
 	path = aniread
 	url = https://github.com/animovement/aniread
+[submodule "anivis"]
+	path = anivis
+	url = https://github.com/animovement/anivis
 [submodule "rhdf5"]
 	path = rhdf5
 	url = https://github.com/Huber-group-EMBL/rhdf5
