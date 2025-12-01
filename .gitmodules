@@ -23,6 +23,9 @@
 [submodule "aniread"]
 	path = aniread
 	url = https://github.com/animovement/aniread
+[submodule "anispace"]
+	path = anispace
+	url = https://github.com/animovement/anispace
 [submodule "anivis"]
 	path = anivis
 	url = https://github.com/animovement/anivis
