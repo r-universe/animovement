@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/animovement/animovement.r-universe.dev
 	branch = HEAD
-[submodule "Rhdf5lib"]
-	path = Rhdf5lib
-	url = https://github.com/Huber-group-EMBL/Rhdf5lib
 [submodule "anicheck"]
 	path = anicheck
 	url = https://github.com/animovement/anicheck
@@ -29,9 +26,3 @@
 [submodule "anivis"]
 	path = anivis
 	url = https://github.com/animovement/anivis
-[submodule "rhdf5"]
-	path = rhdf5
-	url = https://github.com/Huber-group-EMBL/rhdf5
-[submodule "rhdf5filters"]
-	path = rhdf5filters
-	url = https://github.com/Huber-group-EMBL/rhdf5filters
