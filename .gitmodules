@@ -5,9 +5,9 @@
 [submodule "anicheck"]
 	path = anicheck
 	url = https://github.com/animovement/anicheck
-[submodule "aniframe"]
-	path = aniframe
-	url = https://github.com/animovement/aniframe
+[submodule "anicore"]
+	path = anicore
+	url = https://github.com/animovement/anicore
 [submodule "animetric"]
 	path = animetric
 	url = https://github.com/animovement/animetric
